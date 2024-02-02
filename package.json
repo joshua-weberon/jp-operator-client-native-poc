@@ -18,7 +18,8 @@
     "react-redux": "^9.0.4",
     "react-native-web": "~0.19.6",
     "react-dom": "18.2.0",
-    "@expo/metro-runtime": "~3.1.1"
+    "@expo/metro-runtime": "~3.1.1",
+    "expo-dev-client": "~3.3.8"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
