@@ -15,9 +15,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.weberon.chat.operator"
     },
     "android": {
+      "package": "com.weberon.chat.operator",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -29,6 +31,19 @@
     "extra": {
       "eas": {
         "projectId": "811e3877-09b9-4b7e-a94a-9f08b39ec8f9"
+      }
+    },
+    "build": {
+      "production": {
+        "env": {
+          
+        }
+      },
+      "test": {
+        "env": {}
+      },
+      "development" :{
+        "env": {}
       }
     },
     "owner": "joshuapro14"
