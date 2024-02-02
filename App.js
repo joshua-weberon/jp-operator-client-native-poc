@@ -8,7 +8,6 @@ import ScrollChat from "./components/Scroll/index";
 
 
 export default function App() {
-  
   /* return (
     <PaneViews />
   ) */
