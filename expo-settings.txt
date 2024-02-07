@@ -1,0 +1,9 @@
+project -> credentials -> New Application Identifier
+
+To set up credentials for a new application identifier, you'll need the following information:
+
+Application Identifier
+Android Keystore
+FCM Server Key (optional)
+Google Service Account Key (optional)
+Once you have all of the above ready, click 'Next' to get started.
